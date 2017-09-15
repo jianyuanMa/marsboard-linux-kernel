@@ -298,7 +298,6 @@ dtb-$(CONFIG_SOC_IMX6Q) += \
 	imx6dl-udoo.dtb \
 	imx6dl-wandboard.dtb \
 	imx6dl-wandboard-revb1.dtb \
-        imx6dl-afmarsboard.dtb \
 	imx6q-arm2.dtb \
 	imx6q-arm2-hsic.dtb \
 	imx6q-pop-arm2.dtb \
@@ -588,7 +587,7 @@ dtb-$(CONFIG_ARCH_REALVIEW) += \
 	arm-realview-pb1176.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += \
 	rk3066a-bqcurie2.dtb \
-        rk3066a-mx6marsboard.dtb \
+	rk3066a-marsboard.dtb \
 	rk3066a-rayeager.dtb \
 	rk3188-radxarock.dtb \
 	rk3288-evb-act8846.dtb \
